@@ -9,4 +9,4 @@ python ./3_doors.py
 ```
 
 ## 视频
-todo
+[B站视频](https://www.bilibili.com/video/BV1894y1t7jJ/)
